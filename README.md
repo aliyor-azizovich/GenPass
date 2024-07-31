@@ -27,7 +27,7 @@ Password Generator — это простое приложение для ген�
 
 ### Склонируйте репозиторий:
 
-[(https://github.com/aliyor-azizovich/GenPass/).git]
+[https://github.com/aliyor-azizovich/GenPass/.git]
 
 ### Использование
 
